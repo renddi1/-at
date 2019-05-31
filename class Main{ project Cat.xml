@@ -1,0 +1,11 @@
+public class Main {
+    private String name = "Murzic";
+
+    public static void main(String[] args) {
+
+        Cat cat = new Cat();
+        System.out.println("Murzic");
+    }
+
+}
+
